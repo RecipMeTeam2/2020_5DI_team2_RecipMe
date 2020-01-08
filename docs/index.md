@@ -1,5 +1,5 @@
-[Documento 1](projectcharter.md)
+[Project Charter](projectcharter.md)
 
-[Documento 2](softwareprojectmanagementplan.md)
+[Software Project Management Plan](softwareprojectmanagementplan.md)
 
-[Documento 3](softwarerequirementsspecification.md)
+[Software Requirements Specification](softwarerequirementsspecification.md)
