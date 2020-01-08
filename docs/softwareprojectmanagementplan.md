@@ -86,16 +86,16 @@ The following constraints have been identified for this project:
 | ----------------------------- | --------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | Week                          | 1         | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     | 10    | 11    | 12    | 13    | 14    |
 | End Date                      | 01-15     | 01-31 | 02-15 | 02-29 | 03-15 | 03-31 | 04-15 | 04-30 | 05-10 | 05-21 | 05-31 | 06-12 | 06-25 | 06-31 |
-| Design Architecture           |           |       |       |       |       |       |       |       |       |       |       |       |       |       |
-| Specify/Evaluate Requirements |           |       |       |       |       |       |       |       |       |       |       |       |       |       |
-| Iteration 1 Development       |           |       |       |       |       |       |       |       |       |       |       |       |       |       |
-| Iteration 1 Analysis          |           |       |       |       |       |       |       |       |       |       |       |       |       |       |
-| Iteration 2 Design            |           |       |       |       |       |       |       |       |       |       |       |       |       |       |
-| Iteration 2 Development       |           |       |       |       |       |       |       |       |       |       |       |       |       |       |
-| Iteration 2 Analysis          |           |       |       |       |       |       |       |       |       |       |       |       |       |       |
-| Iteration 3 Design            |           |       |       |       |       |       |       |       |       |       |       |       |       |       |
-| Iteration 3 Development       |           |       |       |       |       |       |       |       |       |       |       |       |       |       |
-| Iteration 3 Analysis          |           |       |       |       |       |       |       |       |       |       |       |       |       |       |
+| Design Architecture           |           | Doing | Done  |       |       |       |       |       |       |       |       |       |       |       |
+| Specify/Evaluate Requirements | Doing     | Doing | Doing |       |       |       |       | Doing | Doing |       | Doing | Done  |       |       |
+| Iteration 1 Development       |           | Doing | Doing | Doing | Doing | Doing | Doing | Done  |       |       |       |       |       |       |
+| Iteration 1 Analysis          |           |       |       |       |       |       |       | Done  |       |       |       |       |       |       |
+| Iteration 2 Design            |           |       |       |       |       |       |       |       | Doing | Done  |       |       |       |       |
+| Iteration 2 Development       |           |       |       |       |       |       |       |       |       |       | Done  |       |       |       |
+| Iteration 2 Analysis          |           |       |       |       |       |       |       |       |       |       | Doing |       | Done  |       |
+| Iteration 3 Design            |           |       |       |       |       |       |       |       |       |       | Doing |       | Doing | Done  |
+| Iteration 3 Development       |           |       |       |       |       |       |       |       |       |       | Doing |       | Doing | Done  |
+| Iteration 3 Analysis          |           |       |       |       |       |       |       |       |       |       |       |       |       | Done  |
 
  
 
