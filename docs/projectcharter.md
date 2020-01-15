@@ -10,7 +10,9 @@
 | **Project  Sponsor:** Grazia Cobello, Daniela Saturnino,  Nicola Tommasini |
 | **Customer:**  I.T.I. G. Marconi                             |
 | **Users:** web users                                         |
-| **Stakeholders  and Expectations:**  **Team:** Creating a functional website in order to display food recipes.  The website will be responsive, user-friendly and with a simple design.     **Sponsors:**  Have a good website that work without problems.     **Web users:** Use this  site to enhance the cooking experience. |
+| **Stakeholders  and Expectations:**  
+**Team:** Creating a functional website in order to display food recipes.  The website will be responsive, user-friendly and with a simple design.     
+**Sponsors:**  Have a good website that work without problems.     **Web users:** Use this  site to enhance the cooking experience. |
 | **Purpose  (Problem or opportunity addressed by the project)**:  Users who take advantage of this site will  have a quick and easy way to order ingredients of multiple recipes in order  to prepare good meals. A user must log into the site to add ingredients to  his shopping cart. This will help web users to improve their cooking skills  with little effort. |
 | **Goals and  Objectives**:  The overall  goal is to provide an alternative way to order food related to a specific  recipe. The site is expected to: provide a responsive interface to interact  with the site, function in a simple and intuitive way and to provide some web  pages only to registered users |
 | **Schedule  Information (Major milestones and deliverables)**:  4/12/2019- Project Charter Complete  xx/12/2019  xx/12/2019 |
