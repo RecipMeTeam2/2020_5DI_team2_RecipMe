@@ -10,7 +10,8 @@
 | **Start  Date:** 4/12/2019 | **End Date:** 5/01/2020 |
 
 | **Project  Manager:** Adami Christian                        |
-| ------------------------------------------------------------ |
+
+
 | **Project  Sponsor:** Grazia Cobello, Daniela Saturnino,  Nicola Tommasini |
 | **Customer:**  I.T.I. G. Marconi                             |
 | **Users:** web users                                         |
