@@ -5,6 +5,9 @@ nav:
     - 'Software Project Management Plan': 'softwareprojectmanagementplan.md'
     - 'Business Model Canvas': 'businessmodelcanvas.pdf'
     - 'Project Model Canvas': 'projectmodelcanvas.pdf'
+    - 'Memo Of Understanding': 'memoofunderstanding.md'
+    - 'Release Plan': 'releaseplan.md'
+    - 'Iteration Plan':iterationplan.md
   
     
 theme:
