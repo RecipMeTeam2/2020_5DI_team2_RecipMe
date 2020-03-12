@@ -8,6 +8,7 @@ nav:
     - 'Memo Of Understanding': 'memoofunderstanding.md'
     - 'Release Plan': 'releaseplan.md'
     - 'Iteration Plan': 'iterationplan.md'
+    - 'Test Plan': 'testplan.md'
   
     
 theme:
