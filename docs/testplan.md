@@ -27,49 +27,6 @@
 
  
 
-**TABLE OF CONTENTS**
-
-------
-
-[IDENTIFIER.. 3](#_Toc132124582)
-
-[INTRODUCTION.. 3](#_Toc132124583)
-
-[Items and Features Tested. 3](#_Toc132124584)
-
-[Test Specifications. 3](#_Toc132124585)
-
-[Test Reports. 3](#_Toc132124586)
-
-[Project Plan. 3](#_Toc132124587)
-
-[Quality Assurance Plan. 4](#_Toc132124588)
-
-[ITEMS AND FEATURES TESTED.. 4](#_Toc132124589)
-
-[Customer Website. 4](#_Toc132124590)
-
-[Bulletin Board. 4](#_Toc132124591)
-
-[APPROACH.. 5](#_Toc132124592)
-
-[Strategy. 5](#_Toc132124593)
-
-[Techniques/Tools. 5](#_Toc132124594)
-
-[Test Goals. 6](#_Toc132124596)
-
-[TEST DELIVERABLES.. 6](#_Toc132124597)
-
-[TESTING TASKS.. 6](#_Toc132124598)
-
-[SCHEDULE.. 6](#_Toc132124599)
-
-[REQUIRED RESOURCES.. 6](#_Toc132124600)
-
-  
-
- 
 
 # IDENTIFIER
 
