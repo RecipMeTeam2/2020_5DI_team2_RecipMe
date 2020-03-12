@@ -7,7 +7,7 @@ nav:
     - 'Project Model Canvas': 'projectmodelcanvas.pdf'
     - 'Memo Of Understanding': 'memoofunderstanding.md'
     - 'Release Plan': 'releaseplan.md'
-    - 'Iteration Plan':iterationplan.md
+    - 'Iteration Plan': 'iterationplan.md'
   
     
 theme:
