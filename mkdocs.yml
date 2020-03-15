@@ -9,8 +9,8 @@ nav:
     - 'Release Plan': 'releaseplan.md'
     - 'Iteration Plan': 'iterationplan.md'
     - 'Test Plan': 'testplan.md'
-    - 'User Guide': 'UserGuide.md'
-    - 'User Guide PDF': 'User Guide.pdf'
+    - 'User Guide': 'userguide.md'
+    - 'User Guide PDF': 'userguide.pdf'
   
     
 theme:
