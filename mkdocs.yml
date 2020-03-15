@@ -11,9 +11,9 @@ nav:
     - 'Test Plan': 'testplan.md'
     - 'User Guide': 'userguide.md'
     - 'User Guide PDF': 'userguide.pdf'
-    - 'Memorandum of Understanding' : 'mou.md'
-    - 'Memorandum of Understanding PDF' : 'mou.pdf'
-  
+    - 'Memorandum of Understanding': 'mou.md'
+    - 'Memorandum of Understaning PDF': 'mou.pdf'
+
     
 theme:
     name: readthedocs
