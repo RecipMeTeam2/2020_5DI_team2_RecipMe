@@ -24,6 +24,8 @@ nav:
     - 'Project Success Criteria': 'projectsuccesscriteria.pdf'
     - 'Test Case Specification': 'testcasespecification.md'
     - 'Test Case Specification': 'testcasespecification.pdf'
+    - 'System Documentation': 'systemdocumentatio.md'
+    - 'System Documentation': 'systemdocumentation.pdf'
 
     
 theme:
