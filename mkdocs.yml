@@ -12,6 +12,12 @@ nav:
     - 'User Guide PDF': 'userguide.pdf'
     - 'Memorandum of Understanding': 'mou.md'
     - 'Memorandum of Understaning PDF': 'mou.pdf'
+    - 'Architecture Design Coding Standards': 'architecturedesigncodingstandards.md'
+    - 'Architecture Design Coding Standards': 'architecturedesigncodingstandards.pdf'
+    - 'Project Success Criteria': 'projectsuccesscriteria.md'
+    - 'Project Success Criteria': 'projectsuccesscriteria.pdf'
+    - 'Test Case Specification': 'testcasespecification.md'
+    - 'Test Case Specification': 'testcasespecification.pdf'
 
     
 theme:
