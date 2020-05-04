@@ -25,7 +25,7 @@ nav:
     - 'Test Case Specification': 'testcasespecification.md'
     - 'Test Case Specification': 'testcasespecification.pdf'
     - 'System Documentation': 'systemdocumentation.md'
-    - 'System Documentation': 'systemdocumentationn.pdf'
+    - 'System Documentation': 'systemdocumentation.pdf'
 
     
 theme:
