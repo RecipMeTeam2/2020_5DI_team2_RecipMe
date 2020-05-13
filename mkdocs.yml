@@ -26,6 +26,8 @@ nav:
     - 'Test Case Specification PDF': 'testcasespecification.pdf'
     - 'System Documentation': 'systemdocumentation.md'
     - 'System Documentation PDF': 'systemdocumentation.pdf'
+    - 'Data Processing Agreement': 'dpa.md'
+    - 'Data Processing Agreement PDF': 'dpa.pdf'
 
     
 theme:
